@@ -8,7 +8,7 @@ class NavigationBottomTabBar extends StatelessWidget{
       length: 5,
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Navigation bottom tab bar'),
+          title: Text('Navigation Bottom Tab Bar'),
         ),
         body: TabBarView(
           children: <Widget>[

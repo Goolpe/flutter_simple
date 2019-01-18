@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_simple/examples/navigation/navigationBottomTabBar.dart';
+import 'package:flutter_simple/examples/navigation/navigationTopTabBar.dart';
 
 class Navigation extends StatelessWidget{
 
@@ -12,10 +13,17 @@ class Navigation extends StatelessWidget{
         body: ListView(
           children: <Widget>[
             ListTile(
-              leading: Icon(Icons.minimize),
-              title: Text('Navigation bottom tab bar'),
+              leading: Icon(Icons.border_bottom),
+              title: Text('Navigation Bottom Tab Bar'),
               onTap: (){
                 Navigator.push(context, MaterialPageRoute(builder: (context) => NavigationBottomTabBar()));
+              },
+            ),
+            ListTile(
+              leading: Icon(Icons.border_top),
+              title: Text('Navigation Top Tab Bar'),
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => NavigationTopTabBar()));
               },
             )
           ],

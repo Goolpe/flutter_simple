@@ -8,7 +8,7 @@ class NavigationTopTabBar extends StatelessWidget{
       length: 5,
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Navigation Top Tab Bar'),
+          title: Text('Navigation Top TabBar'),
           bottom: TabBar(
             labelStyle: TextStyle(fontSize: 10),
             tabs: <Widget>[

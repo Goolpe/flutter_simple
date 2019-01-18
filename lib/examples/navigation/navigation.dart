@@ -14,14 +14,14 @@ class Navigation extends StatelessWidget{
           children: <Widget>[
             ListTile(
               leading: Icon(Icons.border_bottom),
-              title: Text('Navigation Bottom Tab Bar'),
+              title: Text('Navigation Bottom TabBar'),
               onTap: (){
                 Navigator.push(context, MaterialPageRoute(builder: (context) => NavigationBottomTabBar()));
               },
             ),
             ListTile(
               leading: Icon(Icons.border_top),
-              title: Text('Navigation Top Tab Bar'),
+              title: Text('Navigation Top TabBar'),
               onTap: (){
                 Navigator.push(context, MaterialPageRoute(builder: (context) => NavigationTopTabBar()));
               },

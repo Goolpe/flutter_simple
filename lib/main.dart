@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navigation/src/navigation.dart';
+import 'package:flutter_simple/examples/home.dart';
 
 void main() => runApp(MyApp());
 
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
       ),
-      home: Navigation(),
+      home: Home(),
     );
   }
 }

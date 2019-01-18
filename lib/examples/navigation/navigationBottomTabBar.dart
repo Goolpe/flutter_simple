@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-class Navigation extends StatelessWidget{
+class NavigationBottomTabBar extends StatelessWidget{
 
   @override
   Widget build(BuildContext context){
     return DefaultTabController(
-      length: 3,
+      length: 5,
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Flutter navigation'),
+          title: Text('Navigation bottom tab bar'),
         ),
         body: TabBarView(
           children: <Widget>[
@@ -20,11 +20,16 @@ class Navigation extends StatelessWidget{
             ),
             Tab(
               child: Text('Third screen'),
+            ),
+            Tab(
+              child: Text('Fourth screen'),
+            ),
+            Tab(
+              child: Text('Fifth screen'),
             )
           ],
         ),
         bottomNavigationBar: TabBar(
-          labelPadding: EdgeInsets.all(10),
           labelColor: Colors.blue,
           labelStyle: TextStyle(fontSize: 10),
           tabs: <Widget>[
@@ -39,6 +44,14 @@ class Navigation extends StatelessWidget{
             Tab(
               text: "Third",
               icon: Icon(Icons.looks_3),
+            ),
+            Tab(
+              text: "Fourth",
+              icon: Icon(Icons.looks_4),
+            ),
+            Tab(
+              text: "Fifth",
+              icon: Icon(Icons.looks_5),
             ),
           ],
         ),

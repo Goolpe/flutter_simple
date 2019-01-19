@@ -5,7 +5,7 @@
 [x] [Navigation](#Navigation)\
 [x] [Lists](#Lists)\
 [x] [Other](#Other)\
-[ ]: ...soon
+[ ] ...soon
 
 ## Useful_links
 - Flutter Documentation - [flutter.io](https://flutter.io/docs)

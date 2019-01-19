@@ -1,5 +1,5 @@
 # :rocket: Flutter_simple
-### Application with examples for Android and IOS
+### Examples for Flutter widgets on Android and IOS. Just clone this repository and start application or click on necessary widget title.
 
 :white_square_button: [Navigation](#Navigation)\
 :white_square_button: [Lists](#Lists)\

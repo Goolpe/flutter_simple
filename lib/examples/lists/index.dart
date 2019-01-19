@@ -3,6 +3,7 @@ import 'package:flutter_simple/examples/lists/exampleListView.dart';
 import 'package:flutter_simple/examples/lists/exampleListViewBuilder.dart';
 import 'package:flutter_simple/examples/lists/exampleListViewSeparated.dart';
 import 'package:flutter_simple/examples/lists/exampleGridView.dart';
+import 'package:flutter_simple/examples/lists/exampleSliverList.dart';
 
 class Lists extends StatelessWidget{
 
@@ -40,6 +41,13 @@ class Lists extends StatelessWidget{
               title: Text('GridView'),
               onTap: (){
                 Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleGridView()));
+              },
+            ),
+            ListTile(
+              leading: Icon(Icons.view_module),
+              title: Text('SliverList'),
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleSliverList()));
               },
             ),
           ],

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 class ExampleListViewBuilder extends StatelessWidget{
-  // final List<String> items = ['First title', 'Second title','Third title', 'Fourth title','Fifth title'];
   final items = List<String>.generate(100, (i) => "Title $i");
 
   @override

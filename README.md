@@ -1,13 +1,13 @@
 # <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="60" /> Flutter examples 
 ###  Clone this repository and start application or just click on necessary title to see the code.
 
-:white_square_button: [Official links](#Official links)\
+:white_square_button: [Official links](#Official_links)\
 :white_square_button: [Navigation](#Navigation)\
 :white_square_button: [Lists](#Lists)\
 :white_square_button: [Other](#Other)\
 :white_large_square: ...soon
 
-## Official links
+## Official_links
 - Flutter Documentation - [flutter.io](https://flutter.io/docs)
 - Dart(Flutter) plugins - [pub.dartlang.org](https://pub.dartlang.org/flutter)
 

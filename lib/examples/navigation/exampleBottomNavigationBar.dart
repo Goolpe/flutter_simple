@@ -20,9 +20,7 @@ class _ExampleBottomNavigationBarState extends State<ExampleBottomNavigationBar>
 
   @override
   Widget build(BuildContext context){
-    return DefaultTabController(
-      length: 5,
-      child: Scaffold(
+    return Scaffold(
         appBar: AppBar(
           title: Text('BottomNavigationBar'),
         ),
@@ -57,7 +55,6 @@ class _ExampleBottomNavigationBarState extends State<ExampleBottomNavigationBar>
             onTap: _onTabTapped,
           )
         ),
-      )
     );
   }
 

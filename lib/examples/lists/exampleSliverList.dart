@@ -38,23 +38,23 @@ class ExampleSliverList extends StatelessWidget{
           delegate: SliverChildListDelegate(
             [
               Container(
-                child: Text('First'), 
+                height: 150.0,
                 color: Colors.red
               ),
               Container(
-                child: Text('Second'), 
+                height: 150.0,
                 color: Colors.yellow
               ),
               Container(
-                child: Text('Third'), 
+                height: 150.0,
                 color: Colors.amber
               ),
               Container(
-                child: Text('Fourth'), 
+                height: 150.0,
                 color: Colors.lightBlue
               ),
               Container(
-                child: Text('Fifth'), 
+                height: 150.0,
                 color: Colors.orangeAccent
               ),
             ],

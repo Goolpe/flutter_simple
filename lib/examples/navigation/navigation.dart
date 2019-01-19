@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_simple/examples/navigation/exampleBottomTabBar.dart';
+import 'package:flutter_simple/examples/navigation/exampleBottomAppBar.dart';
 import 'package:flutter_simple/examples/navigation/exampleBottomNavigationBar.dart';
 import 'package:flutter_simple/examples/navigation/exampleTopTabBar.dart';
 
@@ -32,6 +33,13 @@ class Navigation extends StatelessWidget{
               title: Text('BottomNavigationBar'),
               onTap: (){
                 Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleBottomNavigationBar()));
+              },
+            ),
+            ListTile(
+              leading: Icon(Icons.border_bottom),
+              title: Text('BottomAppBar'),
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleBottomAppBar()));
               },
             )
           ],

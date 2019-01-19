@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_simple/examples/navigation/navigation.dart';
+import 'package:flutter_simple/examples/navigation/index.dart';
+import 'package:flutter_simple/examples/lists/index.dart';
 
 class Home extends StatelessWidget{
 
@@ -12,10 +13,17 @@ class Home extends StatelessWidget{
         body: ListView(
           children: <Widget>[
             ListTile(
-              leading: Icon(Icons.clear_all),
+              leading: Icon(Icons.view_carousel),
               title: Text('Navigation'),
               onTap: (){
                 Navigator.push(context, MaterialPageRoute(builder: (context) => Navigation()));
+              },
+            ),
+            ListTile(
+              leading: Icon(Icons.list),
+              title: Text('Lists'),
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => Lists()));
               },
             )
           ],

@@ -27,14 +27,6 @@ class ExampleSliverList extends StatelessWidget{
           ),
         ),
         SliverList(
-          delegate: SliverChildBuilderDelegate((BuildContext context, int index) {
-            return Text('${items[index]}');
-          },
-          childCount: items.length,
-          ),
-        ),
-        SliverFixedExtentList(
-          itemExtent: 150.0,
           delegate: SliverChildListDelegate(
             [
               Container(

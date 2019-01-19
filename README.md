@@ -1,13 +1,15 @@
 # <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="60" /> Flutter examples 
-Official 
-- Flutter Documentation - [Flutter.io](https://flutter.io/docs)
-- Dart(Flutter) Cool Plugins - [Pub.dartlang.org](https://pub.dartlang.org/flutter)
 ###  Clone this repository and start application or just click on necessary title to see the code.
 
+:white_square_button: [Official links](#Official links)\
 :white_square_button: [Navigation](#Navigation)\
 :white_square_button: [Lists](#Lists)\
 :white_square_button: [Other](#Other)\
 :white_large_square: ...soon
+
+## Official links
+- Flutter Documentation - [flutter.io](https://flutter.io/docs)
+- Dart(Flutter) plugins - [pub.dartlang.org](https://pub.dartlang.org/flutter)
 
 ## Navigation
 | [Top TabBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleTopTabBar.dart) | [Bottom TabBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomTabBar.dart) | [BottomNavigationBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomNavigationBar.dart) | [BottomAppBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomAppBar.dart) |

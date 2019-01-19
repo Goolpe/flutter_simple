@@ -1,11 +1,11 @@
 # <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="60" /> Flutter examples 
 ###  Clone this repository and start application or just click on necessary title to see the code.
 
-- [x] [Useful links](#Useful_links)
-- [x] [Navigation](#Navigation)
-- [x] [Lists](#Lists)
-- [x] [Other](#Other)
-- [ ] ...soon
+- [Useful links](#Useful_links)
+- [Navigation](#Navigation)
+- [Lists](#Lists)
+- [Other](#Other)
+- ...soon
 
 ## Useful_links
 - Flutter Documentation - [flutter.io](https://flutter.io/docs)

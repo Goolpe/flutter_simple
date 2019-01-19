@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_simple/examples/lists/exampleListView.dart';
 import 'package:flutter_simple/examples/lists/exampleListViewBuilder.dart';
+import 'package:flutter_simple/examples/lists/exampleListViewSeparated.dart';
+import 'package:flutter_simple/examples/lists/exampleGridView.dart';
 
 class Lists extends StatelessWidget{
 
@@ -20,10 +22,24 @@ class Lists extends StatelessWidget{
               },
             ),
             ListTile(
-              leading: Icon(Icons.view_list),
+              leading: Icon(Icons.view_day),
               title: Text('ListView.builder'),
               onTap: (){
                 Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleListViewBuilder()));
+              },
+            ),
+            ListTile(
+              leading: Icon(Icons.view_headline),
+              title: Text('ListView.separated'),
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleListViewSeparated()));
+              },
+            ),
+            ListTile(
+              leading: Icon(Icons.view_module),
+              title: Text('GridView'),
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleGridView()));
               },
             ),
           ],

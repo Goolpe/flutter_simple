@@ -1,5 +1,5 @@
 # <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="60" /> Flutter examples
-###  Clone this repository and start Application or just click on necessary widget title.
+###  Clone this repository and start application or just click on necessary title to see the code.
 
 :white_square_button: [Navigation](#Navigation)\
 :white_square_button: [Lists](#Lists)\

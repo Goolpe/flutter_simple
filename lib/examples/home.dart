@@ -4,10 +4,13 @@ import 'package:flutter_simple/examples/lists/exampleListViewBuilder.dart';
 import 'package:flutter_simple/examples/lists/exampleListViewSeparated.dart';
 import 'package:flutter_simple/examples/lists/exampleGridView.dart';
 import 'package:flutter_simple/examples/lists/exampleSliverList.dart';
+
 import 'package:flutter_simple/examples/navigation/exampleBottomTabBar.dart';
 import 'package:flutter_simple/examples/navigation/exampleBottomAppBar.dart';
 import 'package:flutter_simple/examples/navigation/exampleBottomNavigationBar.dart';
 import 'package:flutter_simple/examples/navigation/exampleTopTabBar.dart';
+
+import 'package:flutter_simple/examples/other/exampleScrollPhysics.dart';
 
 class Home extends StatelessWidget{
 
@@ -23,6 +26,8 @@ class Home extends StatelessWidget{
     ["ListView.separated",  ExampleListViewSeparated(), Icons.view_headline],
     ["GridView",  ExampleGridView(), Icons.view_module],
     ["SliverView",  ExampleSliverList(), Icons.view_module],
+    ["Other"],
+    ["ScrollPhysics",  ExampleScrollPhysics(), Icons.touch_app]
   ];
 
   @override

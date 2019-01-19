@@ -3,7 +3,7 @@
 
 :white_square_button: [Navigation](#Navigation)\
 :white_square_button: [Lists](#Lists)\
-:white_large_square: ...soon\
+:white_large_square: ...soon
 
 ## Navigation
 | [Top TabBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleTopTabBar.dart) | [Bottom TabBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomTabBar.dart) | [BottomNavigationBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomNavigationBar.dart) | [BottomAppBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomAppBar.dart) |

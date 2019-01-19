@@ -1,8 +1,8 @@
 # :rocket: Flutter_simple
 ### Application with flutter widgets for Android and IOS
 
-:white_square_button: [## Navigation](#Navigation)
-[:white_square_button: Lists](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/index.dart)
+[:white_square_button: Navigation](#Navigation)
+[:white_square_button: Lists](#Lists)
 :white_large_square:
 
 ## Navigation

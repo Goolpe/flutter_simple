@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class NavigationTopTabBar extends StatelessWidget{
+class ExampleTopTabBar extends StatelessWidget{
 
   @override
   Widget build(BuildContext context){
@@ -8,7 +8,7 @@ class NavigationTopTabBar extends StatelessWidget{
       length: 5,
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Navigation Top TabBar'),
+          title: Text('Top TabBar'),
           bottom: TabBar(
             labelStyle: TextStyle(fontSize: 10),
             tabs: <Widget>[

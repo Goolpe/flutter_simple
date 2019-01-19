@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_simple/examples/navigation/navigationBottomTabBar.dart';
-import 'package:flutter_simple/examples/navigation/navigationTopTabBar.dart';
+import 'package:flutter_simple/examples/navigation/exampleBottomTabBar.dart';
+import 'package:flutter_simple/examples/navigation/exampleBottomNavigationBar.dart';
+import 'package:flutter_simple/examples/navigation/exampleTopTabBar.dart';
 
 class Navigation extends StatelessWidget{
 
@@ -8,22 +9,29 @@ class Navigation extends StatelessWidget{
   Widget build(BuildContext context){
       return Scaffold(
         appBar: AppBar(
-          title: Text('Flutter navigation'),
+          title: Text('Flutter navigations'),
         ),
         body: ListView(
           children: <Widget>[
             ListTile(
               leading: Icon(Icons.border_bottom),
-              title: Text('Navigation Bottom TabBar'),
+              title: Text('Bottom TabBar'),
               onTap: (){
-                Navigator.push(context, MaterialPageRoute(builder: (context) => NavigationBottomTabBar()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleBottomTabBar()));
               },
             ),
             ListTile(
               leading: Icon(Icons.border_top),
-              title: Text('Navigation Top TabBar'),
+              title: Text('Top TabBar'),
               onTap: (){
-                Navigator.push(context, MaterialPageRoute(builder: (context) => NavigationTopTabBar()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleTopTabBar()));
+              },
+            ),
+            ListTile(
+              leading: Icon(Icons.border_bottom),
+              title: Text('BottomNavigationBar'),
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => ExampleBottomNavigationBar()));
               },
             )
           ],

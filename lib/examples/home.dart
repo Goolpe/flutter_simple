@@ -13,6 +13,7 @@ import 'package:flutter_simple/examples/navigation/exampleTopTabBar.dart';
 import 'package:flutter_simple/examples/other/exampleScrollPhysics.dart';
 import 'package:flutter_simple/examples/other/exampleButtons.dart';
 import 'package:flutter_simple/examples/other/exampleTextFormFields.dart';
+import 'package:flutter_simple/examples/other/exampleDrawer.dart';
 
 class Home extends StatelessWidget{
 
@@ -31,7 +32,8 @@ class Home extends StatelessWidget{
     ["Other"],
     ["ScrollPhysics",  ExampleScrollPhysics(), Icons.touch_app],
     ["Buttons",  ExampleButtons(), Icons.crop_16_9],
-    ["TextFormFields",  ExampleTextFormFields(), Icons.text_fields]
+    ["TextFormFields",  ExampleTextFormFields(), Icons.text_fields],
+    ["Drawer",  ExampleDrawer(), Icons.menu]
   ];
 
   @override

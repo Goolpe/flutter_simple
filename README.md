@@ -5,8 +5,8 @@
 - [Navigation](#Navigation)
 - [Lists](#Lists)
 - [Other](#Other)
-  - ScrollPhysics
-  - Buttons
+  - [ScrollPhysics](#Other)
+  - [Buttons](#Other)
 
 ## Useful_links
 - Flutter Documentation - [flutter.io](https://flutter.io/docs)

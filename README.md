@@ -1,5 +1,5 @@
 # <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="60" /> Flutter examples 
-### Clone this repository or click on title to see the code. Start application to see examples. 
+### Clone this repository or click on title to see the code. Start app to see examples on Android and IOS 
 
 - [Useful links](#Useful_links)
 - [Navigation](#Navigation)
@@ -9,7 +9,6 @@
   - [Drawer](#Other)
   - [ScrollPhysics](#Other)
   - [TextFormFields](#Other)
-  
 
 ## Useful_links
 - Flutter Documentation - [flutter.io](https://flutter.io/docs)
@@ -25,7 +24,6 @@
 | [ListView](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleListView.dart) | [ListView.builder](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleListViewBuilder.dart) | [ListView.separated](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleListViewSeparated.dart) | [GridView.count](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleGridView.dart) |
 | ---------- | ------------- | ------------- | ------------- |
 | <img src="https://media.giphy.com/media/ddQnBNhxUd9ihKu4eq/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/5h28jVuDUapCdFOpO3/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/NRensw9ntQTf0dzIMe/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/26kO5pTj2gvbx8Ulco/giphy.gif" width="200" /> |
-
 | [SliverList](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleSliverList.dart) |
 | ---------- |
 | <img src="https://media.giphy.com/media/3oaeOedAfWfLZ5zJP8/giphy.gif" width="200" /> |

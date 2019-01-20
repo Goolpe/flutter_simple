@@ -12,6 +12,7 @@
 ## Useful_links
 - Flutter Documentation - [flutter.io](https://flutter.io/docs)
 - Dart(Flutter) plugins - [pub.dartlang.org](https://pub.dartlang.org/flutter)
+- Masked text plugin - [pub.dartlang.org/packages/flutter_masked_text](https://pub.dartlang.org/packages/flutter_masked_text)
 
 ## Navigation
 | [Top TabBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleTopTabBar.dart) | [Bottom TabBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomTabBar.dart) | [BottomNavigationBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomNavigationBar.dart) | [BottomAppBar](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/navigation/exampleBottomAppBar.dart) |
@@ -28,8 +29,6 @@
 | <img src="https://media.giphy.com/media/3oaeOedAfWfLZ5zJP8/giphy.gif" width="200" /> |
 
 ## Other
-- Masked text plugin - pub.dartlang.org/packages/flutter_masked_text
-
 | [ScrollPhysics](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleScrollPhysics.dart) | [Buttons](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleButtons.dart) | [TextFormFields](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleTextFormFields.dart) |
 | ---------- | ---------- | ---------- |
 | <img src="https://media.giphy.com/media/9uHZoEp9TA6Nsl7CMj/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/d7naYNNCAabKlr149a/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/X8bZzjiE5ceGYursnn/giphy.gif" width="200" /> |

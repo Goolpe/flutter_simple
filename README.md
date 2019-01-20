@@ -1,5 +1,5 @@
 # <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="60" /> Flutter examples 
-### Clone this repository or click on necessary title to see the code. Start application to see examples. 
+### Clone this repository or click on title to see the code. Start application to see examples. 
 
 - [Useful links](#Useful_links)
 - [Navigation](#Navigation)

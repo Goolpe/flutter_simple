@@ -27,6 +27,6 @@
 | <img src="https://media.giphy.com/media/3oaeOedAfWfLZ5zJP8/giphy.gif" width="200" /> |
 
 ## Other
-| [ScrollPhysics](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleScrollPhysics.dart) | [Buttons](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleButtons.dart) |
-| ---------- | ---------- |
-| <img src="https://media.giphy.com/media/9uHZoEp9TA6Nsl7CMj/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/d7naYNNCAabKlr149a/giphy.gif" width="200" /> |
+| [ScrollPhysics](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleScrollPhysics.dart) | [Buttons](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleButtons.dart) | [Text Form Fields](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleTextFormFields.dart) |
+| ---------- | ---------- | ---------- |
+| <img src="https://media.giphy.com/media/9uHZoEp9TA6Nsl7CMj/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/d7naYNNCAabKlr149a/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/X8bZzjiE5ceGYursnn/giphy.gif" width="200" /> |

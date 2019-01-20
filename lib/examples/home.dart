@@ -11,6 +11,7 @@ import 'package:flutter_simple/examples/navigation/exampleBottomNavigationBar.da
 import 'package:flutter_simple/examples/navigation/exampleTopTabBar.dart';
 
 import 'package:flutter_simple/examples/other/exampleScrollPhysics.dart';
+import 'package:flutter_simple/examples/other/exampleButtons.dart';
 
 class Home extends StatelessWidget{
 
@@ -27,7 +28,8 @@ class Home extends StatelessWidget{
     ["GridView",  ExampleGridView(), Icons.view_module],
     ["SliverView",  ExampleSliverList(), Icons.view_module],
     ["Other"],
-    ["ScrollPhysics",  ExampleScrollPhysics(), Icons.touch_app]
+    ["ScrollPhysics",  ExampleScrollPhysics(), Icons.touch_app],
+    ["Buttons",  ExampleButtons(), Icons.crop_16_9]
   ];
 
   @override

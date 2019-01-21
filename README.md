@@ -9,7 +9,8 @@
   - [Drawer](#Other)
   - [ScrollPhysics](#Other)
   - [TextFormFields](#Other)
-
+  - [Selections](#Other)
+  
 ## Useful_links
 - Flutter Documentation - [flutter.io](https://flutter.io/docs)
 - Dart(Flutter) plugins - [pub.dartlang.org](https://pub.dartlang.org/flutter)

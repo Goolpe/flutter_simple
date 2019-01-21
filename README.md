@@ -25,10 +25,11 @@
 | ---------- | ------------- | ------------- | ------------- |
 | <img src="https://media.giphy.com/media/ddQnBNhxUd9ihKu4eq/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/5h28jVuDUapCdFOpO3/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/NRensw9ntQTf0dzIMe/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/26kO5pTj2gvbx8Ulco/giphy.gif" width="200" /> |
 | [SliverList](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleSliverList.dart) |
-| ---------- |
 | <img src="https://media.giphy.com/media/3oaeOedAfWfLZ5zJP8/giphy.gif" width="200" /> |
 
 ## Other
 | [Buttons](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleButtons.dart) | [Drawer](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleDrawer.dart) | [ScrollPhysics](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleScrollPhysics.dart) | [TextFormFields](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleTextFormFields.dart) |
 | ---------- | ---------- | ---------- | ---------- |
 | <img src="https://media.giphy.com/media/d7naYNNCAabKlr149a/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/3osBSM7UWhnfEPu28m/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/9uHZoEp9TA6Nsl7CMj/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/X8bZzjiE5ceGYursnn/giphy.gif" width="200" /> |
+| [Selections](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleSelections.dart) |
+| <img src="https://media.giphy.com/media/9JtCo5udecneVSes1f/giphy.gif" width="200" /> |

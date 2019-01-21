@@ -14,6 +14,7 @@ import 'package:flutter_simple/examples/other/exampleScrollPhysics.dart';
 import 'package:flutter_simple/examples/other/exampleButtons.dart';
 import 'package:flutter_simple/examples/other/exampleTextFormFields.dart';
 import 'package:flutter_simple/examples/other/exampleDrawer.dart';
+import 'package:flutter_simple/examples/other/exampleSelections.dart';
 
 class Home extends StatelessWidget{
 
@@ -30,10 +31,12 @@ class Home extends StatelessWidget{
     ["GridView",  ExampleGridView(), Icons.view_module],
     ["SliverView",  ExampleSliverList(), Icons.view_module],
     ["Other"],
-    ["ScrollPhysics",  ExampleScrollPhysics(), Icons.touch_app],
     ["Buttons",  ExampleButtons(), Icons.crop_16_9],
+    ["Drawer",  ExampleDrawer(), Icons.menu],
+    ["Selections", ExampleSelections(), Icons.select_all],
+    ["ScrollPhysics",  ExampleScrollPhysics(), Icons.touch_app],
     ["TextFormFields",  ExampleTextFormFields(), Icons.text_fields],
-    ["Drawer",  ExampleDrawer(), Icons.menu]
+    
   ];
 
   @override

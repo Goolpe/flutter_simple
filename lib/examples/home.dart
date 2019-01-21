@@ -15,6 +15,7 @@ import 'package:flutter_simple/examples/other/exampleButtons.dart';
 import 'package:flutter_simple/examples/other/exampleTextFormFields.dart';
 import 'package:flutter_simple/examples/other/exampleDrawer.dart';
 import 'package:flutter_simple/examples/other/exampleSelections.dart';
+import 'package:flutter_simple/examples/other/exampleStepper.dart';
 
 class Home extends StatelessWidget{
 
@@ -35,8 +36,8 @@ class Home extends StatelessWidget{
     ["Drawer",  ExampleDrawer(), Icons.menu],
     ["Selections", ExampleSelections(), Icons.select_all],
     ["ScrollPhysics",  ExampleScrollPhysics(), Icons.touch_app],
-    ["TextFormFields",  ExampleTextFormFields(), Icons.text_fields],
-    
+    ["Stepper",  ExampleStepper(), Icons.linear_scale],
+    ["TextFormFields",  ExampleTextFormFields(), Icons.text_fields]
   ];
 
   @override

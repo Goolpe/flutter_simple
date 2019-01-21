@@ -10,6 +10,7 @@
   - [ScrollPhysics](#Other)
   - [TextFormFields](#Other)
   - [Selections](#Other)
+  - [Stepper](#Other)
 
 ## Useful_links
 - Flutter Documentation - [flutter.io](https://flutter.io/docs)
@@ -32,5 +33,5 @@
 | [Buttons](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleButtons.dart) | [Drawer](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleDrawer.dart) | [ScrollPhysics](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleScrollPhysics.dart) | [TextFormFields](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/other/exampleTextFormFields.dart) |
 | ---------- | ---------- | ---------- | ---------- |
 | <img src="https://media.giphy.com/media/d7naYNNCAabKlr149a/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/3osBSM7UWhnfEPu28m/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/9uHZoEp9TA6Nsl7CMj/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/X8bZzjiE5ceGYursnn/giphy.gif" width="200" /> |
-| [Selections](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleSelections.dart) |
-| <img src="https://media.giphy.com/media/1hzZu0cqRfDNYJFI3F/giphy.gif" width="200" /> |
+| [Selections](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleSelections.dart) | [Stepper](https://github.com/Goolpe/flutter_simple/blob/master/lib/examples/lists/exampleStepper.dart) |
+| <img src="https://media.giphy.com/media/1hzZu0cqRfDNYJFI3F/giphy.gif" width="200" /> | <img src="https://media.giphy.com/media/1zJEaOF6iLHwN16OuN/giphy.gif" width="200" /> |
